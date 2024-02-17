@@ -1,6 +1,8 @@
 # Student-DBMS-using-Tkinter
 Projects written in Python.
+
 Author-Ananth M Athreya.
+
 This is a basic project which is done for lab Experiential Learning for a course called Introduction to Python Programming, at RV College of Engineering
 
 The tasks which can be done in these GUI are:
